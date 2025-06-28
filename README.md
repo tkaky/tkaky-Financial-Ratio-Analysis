@@ -4,7 +4,7 @@ This is an end-to-end project focused on analyzing how financial ratios influenc
 
 ---
 
-### **[CLICK HERE TO VIEW THE INTERACTIVE PROJECT REPORT](https://tkaky.github.io/tkaky-Financial-Ratio-Analysis/)** ✨
+### 🔗 **[CLICK HERE TO VIEW THE INTERACTIVE PROJECT REPORT](https://tkaky.github.io/tkaky-Financial-Ratio-Analysis/)** 🔗
 
 The detailed report contains all the code, analysis, and interactive plots generated throughout this project.
 
